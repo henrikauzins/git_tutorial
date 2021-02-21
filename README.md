@@ -10,8 +10,9 @@ The functions should be shared among the team members such that each team member
 
 ## Steps
 * One member of the team (Student A) should `fork` the repository
-* the other members should `clone` the repository from Student A
+* the other members should `fork` the repository from Student A
 * each student completes at least one function and sends a `pull request` to student A
+* student A should check and `merge` the `pull request`
 * Once all the functions has been `merged` to student A's repository, the build will pass
 
 ### Multiply function
